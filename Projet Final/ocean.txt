@@ -1,0 +1,14 @@
+6
+0 10 700 300 Requin.jpg
+1 0.0  400 300 Maqueraux.jpg
+2 0.0  400  100 Thon.jpg
+3 0.0  200 300 petitpoisson.jpg
+4 30.0 50 300 Crevette.jpg
+5 0.0 50 600 Algue.jpg 
+
+0 50 15 0 0 0
+0  0 0 10 0 0
+0  0 0 10 0 0
+0  0 0 0 30 0
+0  0 0 0  0 10
+0  0 0 0  0 0

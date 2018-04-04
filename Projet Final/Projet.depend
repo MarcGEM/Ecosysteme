@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1522842619 source:c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\graph.cpp
+	"graph.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1522785806 c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\graph.h
+	<algorithm>
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<set>
+	<vector>
+	<map>
+	<string>
+	<memory>
+	"grman/grman.h"
+
+1522539042 c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\grman.h
+	<allegro.h>
+	<string>
+	"grman_couleurs.h"
+	"coords.h"
+	"widget.h"
+
+1509222374 c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\grman_couleurs.h
+
+1522575426 c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\coords.h
+	<cmath>
+
+1522636618 c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\widget.h
+	"grman.h"
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<allegro.h>
+
+1522575070 source:c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\coords.cpp
+	"coords.h"
+
+1522790350 source:c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\grman.cpp
+	<cmath>
+	<unordered_map>
+	<unordered_set>
+	<utility>
+	<string>
+	<iostream>
+	<regex>
+	"grman.h"
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+
+1522636920 source:c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\grman\widget.cpp
+	"widget.h"
+
+1522842737 source:c:\users\marcg\documents\ece\ing2\informatique\théorie des graphes\projet final\main.cpp
+	"grman/grman.h"
+	<iostream>
+	"graph.h"
+
